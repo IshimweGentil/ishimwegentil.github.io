@@ -280,7 +280,7 @@ h1 span {
   }
   
   .timeline {
-    width: 80%;
+    width: auto;
     height: auto;
     max-width: 800px;
     margin: 0 auto;
@@ -302,7 +302,7 @@ h1 span {
     background: #161513;
     border-radius: 5px;
     color: #9a9999;
-    padding: 1.75rem;
+    padding: 1.2rem;
     transition: 0.4s ease;
     overflow-wrap: break-word !important;
     margin: 1rem;
