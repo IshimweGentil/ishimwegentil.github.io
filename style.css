@@ -27,6 +27,21 @@ body {
   
 }
 
+
+/* SVG */
+
+.icon-small {
+  width: 100px; /* Adjust size as needed */
+  height: 100px;
+}
+
+
+
+
+
+/* SVG */
+
+
 /* PROFILE SECTION */
 
 .icon__flex {
